@@ -47,7 +47,6 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-    {
       "name": "KAYVID V6",
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/wy357251/KAYVID/main/lib/ipv6.m3u",
